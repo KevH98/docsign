@@ -1,0 +1,9 @@
+/static/private_key.pem
+*.pem
+*.p12
+*.pfx
+*.cer
+*.png
+*.pdf
+
+/untitled folder/
